@@ -11,3 +11,5 @@ novesce
 i hope you like it -Boss 2023
 
 3d model view: https://a360.co/4fCEPQf
+
+kofi: https://ko-fi.com/novesce
