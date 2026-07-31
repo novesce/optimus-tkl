@@ -1,6 +1,9 @@
 this tkl is designed by yours truly for my computer science teacher
 
 thank you hali :3 
+he also made the plate for this keyboard btw.
+
+thank you sawns for helping too :3 
 
 if you want to use a pcb, just use h88 compatible pcb
 
